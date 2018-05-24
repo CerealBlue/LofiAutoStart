@@ -1,6 +1,7 @@
 # LofiAutoStart
 A program for windows that automatically starts playing lofi from<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;https://tunein.com/radio/LoFi-hip-hop-Radio-s288329/
+&nbsp;&nbsp;&nbsp;&nbsp;https://tunein.com/radio/LoFi-hip-hop-Radio-s288329/ <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;https://www.youtube.com/watch?v=FlKlmgksvgQ
 
 Steps to make it work:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;1. 	Open the lofiAutoStart.bat file to edit it.<br/><br/>
