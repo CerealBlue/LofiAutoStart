@@ -3,7 +3,7 @@
 ::This program Launches a webpage that automatically plays live lofi music.
 ::=================
 
-echo LofiAutoStart Created by BlueCereal
+echo LofiAutoStart Created by IceCereal
 echo.
 
 SET /p msg="y/n to play."
