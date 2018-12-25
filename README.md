@@ -11,4 +11,3 @@ Steps to make it work:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;3.	To make this execute on everytime the user login's, follow this website:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.computerhope.com/issues/ch000322.htm
 <br/><br/><br/>
-BlueCereal
